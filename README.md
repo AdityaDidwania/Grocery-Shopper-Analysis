@@ -1,7 +1,7 @@
-# Grocery-Shopper-Analysis
+## Grocery-Shopper-Analysis
 The first part consists on creating and populating data base with a given schema
 
-I was responsible to answer the following questions to help analyze the behaviour of grocery shoppers
+# I was responsible to answer the following questions to help analyze the behaviour of grocery shoppers
 
 How many:
   i. Store shopping trips are recorded in your database?  
